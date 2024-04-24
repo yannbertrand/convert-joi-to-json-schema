@@ -1,0 +1,25 @@
+{
+  "name": "joi-to-json-schema",
+  "version": "0.0.0",
+  "description": "Convert Joi schema to JSON schema",
+  "exports": {
+    ".": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "joi": "^17.3.0",
+    "vitest": "^1.5.1"
+  },
+  "peerDependencies": {
+    "joi": ">= 17.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannbertrand/joi-to-json-schema.git"
+  },
+  "homepage": "https://github.com/yannbertrand/joi-to-json-schema#readme"
+}
