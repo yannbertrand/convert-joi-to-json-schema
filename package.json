@@ -11,8 +11,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "joi": "^17.3.0",
-    "vitest": "^1.5.1"
+    "joi": "17.13.0",
+    "vitest": "1.5.1"
   },
   "peerDependencies": {
     "joi": ">= 17.3.0"
